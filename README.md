@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/blog-homepage.jpg)](https://mdbootstrap.com/freebies/blog-template/)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/blog-homepage.jpg)](https://mdbootstrap.com/freebies/jquery/blog/)
 
 # Bootstrap 4 & Material Design - Blog Template 
 
@@ -7,7 +7,7 @@ Free, responsive Blog template containing many types of engaging posts, author p
 ________
 
 # Live Previews: 
-## https://mdbootstrap.com/freebies/blog-template/
+## https://mdbootstrap.com/freebies/jquery/blog/
 
 # Most important features:
 
